@@ -17,7 +17,7 @@ export interface Exercise {
 
   /**
    * The gifUrl of the exercise.
-   * @example "https://v1.cdn.exercisedb.dev/media/trmte8s.gif"
+   * @example "https://ik.imagekit.io/trackn/Gifs/7aolH9D.gif"
    */
   gifUrl: string
 
