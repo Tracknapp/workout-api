@@ -1,6 +1,5 @@
 import { Routes } from '#common/types/route.type.js'
-import { createRoute, OpenAPIHono } from '@hono/zod-openapi'
-import { z } from 'zod'
+import { createRoute, OpenAPIHono, z } from '@hono/zod-openapi'
 import { BodyPartService } from '../services'
 import { BodyPartModel } from '../models/bodyPart.model'
 

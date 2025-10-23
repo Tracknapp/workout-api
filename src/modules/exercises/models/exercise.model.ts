@@ -1,4 +1,4 @@
-import { z } from 'zod'
+import { z } from '@hono/zod-openapi'
 export const ExerciseModel = z.object({
   exerciseId: z.string(),
   name: z.string(),
@@ -12,15 +12,15 @@ export const ExerciseModel = z.object({
 
 // Common pagination schema
 export const PaginationQuerySchema = z.object({
-  offset: z.coerce.number().nonnegative().optional().openapi({
+  offset: z.coerce.number().nonnegative().openapi({
     title: 'Offset',
     description:
       'The number of exercises to skip from the start of the list. Useful for pagination to fetch subsequent pages of results.',
     type: 'number',
     example: 0,
     default: 0
-  }),
-  limit: z.coerce.number().positive().max(100).optional().openapi({
+  }).optional(),
+  limit: z.coerce.number().positive().max(100).openapi({
     title: 'Limit',
     description:
       'The maximum number of exercises to return in the response. Limits the number of results for pagination purposes.',
@@ -29,7 +29,7 @@ export const PaginationQuerySchema = z.object({
     type: 'number',
     example: 10,
     default: 10
-  })
+  }).optional()
 })
 
 // Common response schema
