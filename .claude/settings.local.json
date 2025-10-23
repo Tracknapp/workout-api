@@ -1,6 +1,6 @@
 {
   "permissions": {
-    "allow": ["Bash(git commit:*)", "Bash(git add:*)", "Bash(python3:*)"],
+    "allow": ["Bash(git commit:*)", "Bash(git add:*)", "Bash(python3:*)", "Bash(cat:*)"],
     "deny": [],
     "ask": []
   }
