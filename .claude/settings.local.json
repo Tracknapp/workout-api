@@ -1,8 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(bun run dev)",
-      "Bash(curl:*)"
+      "Bash(git commit:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
