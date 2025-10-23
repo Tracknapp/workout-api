@@ -45,18 +45,6 @@ ExerciseDB API is a **comprehensive and developer-friendly database** featuring 
 
 <br>
 
-## 🚀 Deploy Your Own API (V1)
-
-Want to self-host the open-source ExerciseDB API (V1)?
-
-You can instantly deploy it to **Vercel** with just one click and have your own version running in seconds — no backend setup needed.
-
-<div align="left">
-
-[![Deploy with Vercel](https://vercel.com/button)](https://dub.sh/DeployNow)
-
-</div>
-
 ## 🔗 Useful Links
 
 <div align="left">
@@ -72,61 +60,6 @@ You can instantly deploy it to **Vercel** with just one click and have your own 
 <a href="https://dub.sh/exercisedb-api-tos" target="_blank">
   <img src="https://img.shields.io/badge/Terms%20Of%20Use-2D2D2D?style=for-the-badge&logo=notion&logoColor=white" alt="Terms of use" />
 </a>
-<br>
-
-### 🧪 **API Playground**
-
-<strong>Test our datasets and explore API endpoints</strong><br>
-<em>⚠️ These endpoints are for exploration only and <strong>not recommended for production integration</strong> — strict rate limits and potential instability may apply.</em>
-<br><br>
-<strong style="color: red;">**Note:** V1 and V2 refer to different datasets.</strong>
-<br>
-
-  <p>
-    <a href="https://dub.sh/exercisedb_v2" target="_blank">
-      <img src="https://img.shields.io/badge/v2%20Playground-5A5A5A?style=for-the-badge&logo=play&logoColor=white" alt="v2 Playground" />
-    </a>
-    <a href="https://dub.sh/exercisedb_v1" target="_blank">
-      <img src="https://img.shields.io/badge/v1%20Playground-5A5A5A?style=for-the-badge&logo=play&logoColor=white" alt="v1 Playground" />
-    </a>
-  </p>
-
-</div>
-
-## 📬 Support & Contact
-
-<div align="left">
-
-<p><strong>Need help or have questions? We're here to assist!</strong></p>
-
-<table>
-  <tr>
-    <td align="left">
-      <a href="mailto:hello@exercisedb.dev">
-        <img src="https://img.shields.io/badge/General%20Inquiries-2D2D2D?style=for-the-badge&logo=mail&logoColor=white" alt="General Inquiries" />
-      </a>
-      <br>
-      <small>✉️ Partnerships & General Questions</small>
-    </td>
-    <td align="left">
-      <a href="mailto:support@exercisedb.dev">
-        <img src="https://img.shields.io/badge/Technical%20Support-404040?style=for-the-badge&logo=wrench&logoColor=white" alt="Technical Support" />
-      </a>
-      <br>
-      <small>🛠️ API Help & Technical Issues</small>
-    </td>
-    <td align="left">
-      <a href="https://t.me/exercisedb" target="_blank">
-        <img src="https://img.shields.io/badge/Chat%20With%20Us-5A5A5A?style=for-the-badge&logo=message-circle&logoColor=white" alt="Chat With Us" />
-      </a>
-      <br>
-      <small>💬 Live Chat Support (Fast Response)</small>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <br>
 
 ## 🏋️‍♂️ V2 Exercise Sample
