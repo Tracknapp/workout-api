@@ -1,9 +1,9 @@
 {
-  "name": "exercisedb-api",
-  "description": "ExerciseDB API",
-  "repository": "https://github.com/exercisedb/exercisedb-api",
+  "name": "trackn-api",
+  "description": "Fitness Exercise API",
+  "repository": "https://github.com/Tracknapp/workout-api",
   "version": "0.0.7",
-  "author": "ExerciseDB API",
+  "author": "Deepak Kumar Dash",
   "license": "AGPL-3.0",
   "type": "module",
   "main": "dist/server.js",

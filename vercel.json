@@ -25,11 +25,11 @@
         },
         {
           "key": "Author",
-          "value": "ExerciseDB API"
+          "value": "Fitness API"
         },
         {
           "key": "Github",
-          "value": "https://github.com/exercisedb/exercisedb-api"
+          "value": "https://github.com/Tracknapp/workout-api"
         }
       ]
     }
